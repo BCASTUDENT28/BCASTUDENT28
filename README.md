@@ -1,11 +1,11 @@
 # Hi, I'm Mantej Singh
 
-**Full-Stack Developer & AI Builder** from Punjab, India. I build websites, online stores, mobile apps and AI automations for businesses. Co-founder, CEO & CTO of **ApplifyNow**.
+**Full-Stack Developer & AI Builder** from Punjab, India. I build websites, online stores, mobile apps and AI automations for businesses. Founder of **HustleSmith Studio**, a hand-painted denim brand.
 
 ### What I build
 
 - **Websites & online stores**: Next.js, Shopify, Medusa
-- **Mobile apps**: native iOS (Swift), website-to-app
+- **Mobile apps**: native iOS (Swift)
 - **AI automations & chatbots**: WhatsApp/Telegram bots, LLM workflows, Whisper speech pipelines
 - **Dashboards & SaaS MVPs**: FastAPI, React, NestJS, PostgreSQL
 - **IoT prototypes**: ESP32 firmware with AI voice
